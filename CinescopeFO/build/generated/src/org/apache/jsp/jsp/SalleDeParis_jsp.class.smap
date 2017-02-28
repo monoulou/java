@@ -1,0 +1,26 @@
+SMAP
+SalleDeParis_jsp.java
+JSP
+*S JSP
+*F
++ 0 SalleDeParis.jsp
+jsp/SalleDeParis.jsp
++ 1 _entete.jsp
+jsp/../jsp/_entete.jsp
++ 2 _rechercher.jsp
+jsp/../jsp/_rechercher.jsp
++ 3 _sommaire.jsp
+jsp/../jsp/_sommaire.jsp
+*L
+1,14:51
+5#1,8:65
+14#0,2:72
+5#2,12:74
+15#0,2:85
+5#3,30:87
+16#0,8:116
+24:124,3
+25,2:127
+27:129,3
+28,5:132
+*E
